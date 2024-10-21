@@ -1,5 +1,5 @@
 # Conversor de monedas
-Programa para convetir monedas al tipo de cambio  oficial en dolares y viceversa (ARS, BRL, COP)(uso en consola) escrito en java
+Programa para convetir monedas al tipo de cambio  oficial en dolares y viceversa (ARS, BRL, COP)(uso en consola) escrito en java y consumiendo la api de exchangerate-api.com
 
 Lenguaje y librerias usadas 
 -  
